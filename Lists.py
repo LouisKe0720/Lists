@@ -49,6 +49,6 @@ print(clothes_rack)
 clothes_rack.reverse()
 print(clothes_rack)
 
-#Prints the items in the list with new line for each. The "x" is given the index value to all the items in the list.
+#Prints the items in the list with new line for each. The "x" is given the index value to all the items in the list. Your printing the index of x in that list.
 for x in clothes_rack:
     print(x)
